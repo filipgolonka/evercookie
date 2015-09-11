@@ -3,3 +3,5 @@ evercookie.min.js
 .project
 .idea
 *.iml
+
+/vendor/
